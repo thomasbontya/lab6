@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>INFORMATICA APLICATA 2020-2021 </h1>
+<link rel="stylesheet" type="text/css" href="source.css">
+<h2> Catalog colegi </h2>
+<p>Grupa 2115</p>
+<a href="file:///C:/Users/thoma/Desktop/programare/ia/lab%205/Fisa%20laborator%205%20Manolache%20Bogdan..html">Bogdan Manolache </a>
+<br>
+<a href="file:///C:/Users/thoma/Desktop/programare/ia/lab%205/Profil.html">Thomas Bontya </a>
+<br>
+<a href="file:///C:/Users/thoma/Desktop/programare/ia/lab%205/test.html">Goia Iulian Teodor</a>
+
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!doctype html>
+	<html>	
+	<body>
+<style>
+	body { background-color: lightblue; }
+	h1 {color: white;}
+	h2 {color: rgb:(130, 20, 34);}
+	p {color: #3cb371;}
+	
+	table {backround-color: gray:}
+	ul {background-color: solidblue;}
+	
+	table, tr, td, ul {border: 2px solidblack;}
+	tr:hover {background-color: #f5f5f5}
+	
+		h1 {font-family "Verdana";
+	font-style: bold;
+	font-size: 36px;} 
+	
+		p{font-family : "Arial";
+	font-size: 18px;}
+	
+	img {border:v2px solidblack;
+		border-radius: 12px; 
+		with: 150px;
+		display: block;
+		padding: 4px;
+		margin: left;
+		opacity: 0.9;
+	
+    a.linkCat {front-style: italic;
+               front-size: 24px;}
+
+#logoCat {border: 2px solid black;
+          border: radius: 150px;
+width: 130px;
+display: block;
+margin: auto;
+opacity: 0.9;}
+
+#titluCat { front-family: "Arial";
+front-style: italic;
+front-size: 52px;
+color: white;}		  
+		</style>
+		
